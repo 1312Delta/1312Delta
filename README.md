@@ -9,7 +9,7 @@ Skills:
 # - Languages i fluently speak:
     - English
     - Spanish
-    - Catalonian
+    - Catalonian / Valencian
 
 # - It Skills:
     - Java
